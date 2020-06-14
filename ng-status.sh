@@ -1,6 +1,6 @@
 #! /bin/bash
 ####################################################
-Author:https://github.com/zunsking
+#Author:https://github.com/zunsking
 #如果提示：bash: netstat: command not found，先安装net-tools工具包
 #apt-get install net-tools
 #通过监控80端口是否被监听判断nginx状态，如果未监听则重启nginx
